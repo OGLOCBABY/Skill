@@ -1,2 +1,2 @@
 # Skill
-claude skill 
+useful claude skills
